@@ -1,0 +1,6 @@
+framework module Pods_ZHVersionManager {
+  umbrella header "Pods-ZHVersionManager-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - ZHVersionManager (1.1.1)
+
+DEPENDENCIES:
+  - ZHVersionManager (from `../`)
+
+EXTERNAL SOURCES:
+  ZHVersionManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHVersionManager: 487b14cf6a3698007e1c63a769510a6d56bd103c
+
+PODFILE CHECKSUM: 272052249ebb9e22bf47ed97bfdb9171be809c7b
+
+COCOAPODS: 1.5.3
